@@ -1,0 +1,79 @@
+@media (max-width: 991px) {
+   .logo{
+      position: relative;
+   }
+   .main-menu{
+      position: absolute;
+      top: 18%;
+      left: 0;
+      background: #f9004d;
+      width: 100%;
+      display: none;
+   }
+   .main-menu ul{
+      display: block;
+      text-align: center;
+   }
+   .main-menu ul li a{
+      color: #fff;
+      padding: 10px 20px;
+   }
+   .menu-icon{
+      display: block;
+      text-align: right;
+   }
+   .menu-icon i{
+      font-size: 20px;
+      color: #f9004d;
+   }
+   .header-content{
+      position: absolute;
+      top: 80%;
+   }
+   .header-content h1{
+      font-size: 45px;
+   }
+   .header-content h3{
+      font-size: 20px;
+      margin-bottom: 5px;
+   }
+   .news-letter form{
+      width: 300px;
+   }
+
+   .about-text{
+      margin-top: 5px;
+   }
+   .about-text h2{
+      font-size: 40px;
+      margin-bottom: 5px;
+   }
+   .about-text p{
+      font-size: 18px;
+      line-height: 17px;
+      margin-bottom: 15px;
+      text-align: justify;
+   }
+
+
+
+}
+
+
+@media (max-width: 768px){
+
+   .about-text{
+      margin-top: 40px;
+   }
+   .section-head h2{ 
+      font-size: 45px;
+   }
+   
+
+
+}
+
+
+
+
+
